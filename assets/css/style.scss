@@ -2,3 +2,9 @@
 ---
 
 @import "jekyll-theme-minimal";
+img.imgpost{
+    max-height:100px;
+    max-width:100px;
+    height:auto;
+    width:auto;
+}

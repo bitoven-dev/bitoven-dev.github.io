@@ -4,3 +4,5 @@ description: Bitoven or Beethoven?
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+plugins:
+  - jemoji

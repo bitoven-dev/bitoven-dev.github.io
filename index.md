@@ -2,122 +2,43 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+ <center> <img src="./assets/img/beethoven.png" /> </center>
+ <br>
+ 
 
-[Link to another page](./another-page.html).
+# About
 
-There should be whitespace between paragraphs.
+I am a cryptocurrency hobbyist. I actually acknowledged Bitcoin/crypto since 2011 and have some of it stored on exchange. Then I forgot it like most of people done, because BTC was so cheap back then. Until BTC massive pump happened on 2017, I remembered, "Ah, I have some coins on exchange xxx". I went to check it out, but BAM!, the exchange has disappeared. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+That was stupid of me back then that I left my assets on exchange. I didn't understand that I could save my crypto assets (private key) on paper or offline storage, I thought it must be online 24/7 !!!
 
-# Header 1
+But, I would still love crypto. There were many projects popped out on 2017. Although most of them were shitcoins, ponzi schemes or blatantly scams. My interest was on mining new coins. Most of them were POW coins. New forked coins appeared everyday. But yeah, mostly are dead projects now. We can see now that consensus protocol interest are shifting to POS. So I try to get experience of it by participating on many projects by being validator.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I have no/little programming skill. So why do I choose to participate in this crypto space that required some of technical skills?
 
-## Header 2
+First, I believe with spirit of decentralization, mass adoption will come true, one of the way to go there is by making "normal people" like me to participate in. I make assumption that if I can open and back up wallet, mining coin, being validator, delegating, etc, other "normal people" also can do it.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Second, I find inspiration in independent validators like [meleatrust](https://meleatrust.com/) also [moonli.me](https://moonli.me/) and believe that **smaller validators should have more power and wider participation in POS systems.** :wink: 
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+Third, profit, knowledge and experience gain, no need to explain :grin:
 
 * * *
 
-### Here is an unordered list:
+## Network I've Joined
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+| <center>Network   </center>      | <center>Some Notes </center> |
+|:-------------|:------|
+| <center>Joystream<br> <img class="imgpost" src="./assets/img/joystream.png" /> </center>| This is the network I've joined the longest time. Since it was a torrent project and now it is a video platform. Polkadot |
+| <center>Snax<br> <img class="imgpost" src="./assets/img/snax.png" /> </center>| Maybe this is the first network with dPOS I've joined. But I no longer being a validator there. EOS alike |
+| <center>Oasis<br> <img class="imgpost" src="./assets/img/oasis.jpg" /> </center>| Privacy focused blockchain, very technical environment :smirk: |
+| <center>Harmony<br> <img class="imgpost" src="./assets/img/one.png" /> </center>| Pangaea! |
+| <center>Pocket<br> <img class="imgpost" src="./assets/img/pokt.jpg" /> </center>| Relay service, tendermint |
+| <center>Plasm<br> <img class="imgpost" src="./assets/img/plasm.jpg" /> </center>| Polkadot |
+| <center>Regen<br> <img class="imgpost" src="./assets/img/regen.jpg" /> </center>| Many challanges during the testnet, got much experience from it :yum:, tendermint |
 
-### And an ordered list:
+* * *
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+## Extras
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+_Forgive me for my imperfect writing, I am not a native English speaker. As long as we can understand each other, the purpose of communication is fulfilled, isn't it?_ <br>
+Any input is appreciated. Contact me via **_bitoven[at]protonmail.com_**
