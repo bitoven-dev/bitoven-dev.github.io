@@ -1,4 +1,4 @@
-I"®<center> <img src="./assets/img/beethoven.png" /> </center>
+I"•<center> <img src="./assets/img/beethoven.png" /> </center>
 <p><br /></p>
 
 <h1 id="about">About</h1>
@@ -56,6 +56,10 @@
     <tr>
       <td style="text-align: left"><center>Regen<br /> <img class="imgpost" src="./assets/img/regen.jpg" /> </center></td>
       <td style="text-align: left">Many challanges during the testnet, got much experience from it :yum:, tendermint</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><center>Matic<br /> <img class="imgpost" src="./assets/img/matic.jpg" /> </center></td>
+      <td style="text-align: left">Mini challanges with rewards during the testnet.</td>
     </tr>
   </tbody>
 </table>

@@ -35,6 +35,7 @@ Third, profit, knowledge and experience gain, no need to explain :grin:
 | <center>Pocket<br> <img class="imgpost" src="./assets/img/pokt.jpg" /> </center>| Relay service, tendermint |
 | <center>Plasm<br> <img class="imgpost" src="./assets/img/plasm.jpg" /> </center>| Polkadot |
 | <center>Regen<br> <img class="imgpost" src="./assets/img/regen.jpg" /> </center>| Many challanges during the testnet, got much experience from it :yum:, tendermint |
+| <center>Matic<br> <img class="imgpost" src="./assets/img/matic.jpg" /> </center>| Mini challanges with rewards during the testnet. |
 
 * * *
 
