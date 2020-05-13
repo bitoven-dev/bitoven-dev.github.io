@@ -18,7 +18,7 @@ I have no/little programming skill. So why do I choose to participate in this cr
 
 First, I believe with spirit of decentralization, mass adoption will come true, one of the way to go there is by making "normal people" like me to participate in. I make assumption that if I can open and back up wallet, mining coin, being validator, delegating, etc, other "normal people" also can do it.
 
-Second, I find inspiration in independent validators like [meleatrust](https://meleatrust.com/) also [moonli.me](https://moonli.me/) and believe that **smaller validators should have more power and wider participation in POS systems.** :wink: 
+Second, I find inspiration in independent validators like [meleatrust](https://meleatrust.com/) also [moonli.me](https://moonli.me/) and believe that ***"smaller validators should have more power and wider participation in POS systems" (moonli.me).*** :wink: 
 
 Third, profit, knowledge and experience gain, no need to explain :grin:
 
