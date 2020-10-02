@@ -4,7 +4,34 @@ layout: default
 
  <center> <img src="./assets/img/beethoven.png" /> </center>
  <br>
- 
+
+# Mainnet Validator
+
+Don't forget to delegate to Bitoven validator on below mainnet network:
+
+| <center>Network   </center>      | <center>Validator Address </center> |
+|:-------------|:------|
+| <center>Oasis<br> <img class="imgpost" src="./assets/img/oasis.jpg" /> </center>| `oasis1qrs8zlh0mj37ug0jzlcykz808ylw93xwkvknm7yc` |
+| <center>Akash<br> <img class="imgpost" src="./assets/img/akash.jpg" /> </center>| `akashvaloper153a3745hrcswmsdx7wwaqqva7lkreu5pa5ccfx` |
+| <center>Avalanche<br> <img class="imgpost" src="./assets/img/ava.png" /> </center>| `NodeID-GHsDHYeRXaK1UZizpCWvoN26kb6B1s1PE` |
+
+* * *
+
+## Network I've Joined
+
+| <center>Network   </center>      | <center>Some Notes </center> |
+|:-------------|:------|
+| <center>Joystream<br> <img class="imgpost" src="./assets/img/joystream.png" /> </center>| This is the network I've joined the longest time. Since it was a torrent project and now it is a video platform. Created telegram bot for its main telegram channel (bad code since I am not a coder, but it worked 😂) |
+| <center>Snax<br> <img class="imgpost" src="./assets/img/snax.png" /> </center>| Maybe this is the first network with dPOS I've joined. But I no longer being a validator there. EOS alike |
+| <center>Oasis<br> <img class="imgpost" src="./assets/img/oasis.jpg" /> </center>| Privacy focused blockchain, very technical environment. **I got 6th validator rank on questnet** 😀 |
+| <center>Bluzelle<br> <img class="imgpost" src="./assets/img/Bluzelle.jpg" /> </center>| Joined Bluzelle Swarm of Duty and got **0 missed blocks on Voting Participation and Power Uptime during testnet** |
+| <center>Harmony<br> <img class="imgpost" src="./assets/img/one.png" /> </center>| Pangaea! |
+| <center>Pocket<br> <img class="imgpost" src="./assets/img/pokt.jpg" /> </center>| Relay service, tendermint |
+| <center>Plasm<br> <img class="imgpost" src="./assets/img/plasm.jpg" /> </center>| Polkadot |
+| <center>Regen<br> <img class="imgpost" src="./assets/img/regen.jpg" /> </center>| Many challanges during the testnet, got much experience from it :yum:, tendermint |
+| <center>Matic<br> <img class="imgpost" src="./assets/img/matic.jpg" /> </center>| Mini challanges with rewards during the testnet. |
+
+* * *
 
 # About
 
@@ -21,21 +48,6 @@ First, I believe with spirit of decentralization, mass adoption will come true, 
 Second, I find inspiration in independent validators like [meleatrust](https://meleatrust.com/) also [moonli.me](https://moonli.me/) and believe that ***"smaller validators should have more power and wider participation in POS systems" (moonli.me).*** :wink: 
 
 Third, profit, knowledge and experience gain, no need to explain :grin:
-
-* * *
-
-## Network I've Joined
-
-| <center>Network   </center>      | <center>Some Notes </center> |
-|:-------------|:------|
-| <center>Joystream<br> <img class="imgpost" src="./assets/img/joystream.png" /> </center>| This is the network I've joined the longest time. Since it was a torrent project and now it is a video platform. Polkadot |
-| <center>Snax<br> <img class="imgpost" src="./assets/img/snax.png" /> </center>| Maybe this is the first network with dPOS I've joined. But I no longer being a validator there. EOS alike |
-| <center>Oasis<br> <img class="imgpost" src="./assets/img/oasis.jpg" /> </center>| Privacy focused blockchain, very technical environment :smirk: |
-| <center>Harmony<br> <img class="imgpost" src="./assets/img/one.png" /> </center>| Pangaea! |
-| <center>Pocket<br> <img class="imgpost" src="./assets/img/pokt.jpg" /> </center>| Relay service, tendermint |
-| <center>Plasm<br> <img class="imgpost" src="./assets/img/plasm.jpg" /> </center>| Polkadot |
-| <center>Regen<br> <img class="imgpost" src="./assets/img/regen.jpg" /> </center>| Many challanges during the testnet, got much experience from it :yum:, tendermint |
-| <center>Matic<br> <img class="imgpost" src="./assets/img/matic.jpg" /> </center>| Mini challanges with rewards during the testnet. |
 
 * * *
 

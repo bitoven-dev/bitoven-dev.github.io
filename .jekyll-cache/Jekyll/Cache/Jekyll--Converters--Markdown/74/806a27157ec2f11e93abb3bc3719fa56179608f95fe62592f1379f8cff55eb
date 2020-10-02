@@ -1,5 +1,32 @@
-I"�<center> <img src="./assets/img/beethoven.png" /> </center>
+I"�<center> <img src="./assets/img/beethoven.png" /> </center>
 <p><br /></p>
+
+<h1 id="mainnet-validator">Mainnet Validator</h1>
+
+<p>Don’t forget to delegate to Bitoven validator on below mainnet network:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left"><center>Network   </center></th>
+      <th style="text-align: left"><center>Validator Address </center></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><center>Oasis<br /> <img class="imgpost" src="./assets/img/oasis.jpg" /> </center></td>
+      <td style="text-align: left"><code class="highlighter-rouge">oasis1qrs8zlh0mj37ug0jzlcykz808ylw93xwkvknm7yc</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><center>Akash<br /> <img class="imgpost" src="./assets/img/akash.jpg" /> </center></td>
+      <td style="text-align: left"><code class="highlighter-rouge">akashvaloper153a3745hrcswmsdx7wwaqqva7lkreu5pa5ccfx</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><center>Avalanche<br /> <img class="imgpost" src="./assets/img/ava.png" /> </center></td>
+      <td style="text-align: left"><code class="highlighter-rouge">NodeID-GHsDHYeRXaK1UZizpCWvoN26kb6B1s1PE</code></td>
+    </tr>
+  </tbody>
+</table>
 
 <h1 id="about">About</h1>
 
@@ -13,7 +40,7 @@
 
 <p>First, I believe with spirit of decentralization, mass adoption will come true, one of the way to go there is by making “normal people” like me to participate in. I make assumption that if I can open and back up wallet, mining coin, being validator, delegating, etc, other “normal people” also can do it.</p>
 
-<p>Second, I find inspiration in independent validators like <a href="https://meleatrust.com/">meleatrust</a> also <a href="https://moonli.me/">moonli.me</a> and believe that <strong>smaller validators should have more power and wider participation in POS systems.</strong> :wink:</p>
+<p>Second, I find inspiration in independent validators like <a href="https://meleatrust.com/">meleatrust</a> also <a href="https://moonli.me/">moonli.me</a> and believe that <strong><em>“smaller validators should have more power and wider participation in POS systems” (moonli.me).</em></strong> :wink:</p>
 
 <p>Third, profit, knowledge and experience gain, no need to explain :grin:</p>
 
@@ -31,7 +58,7 @@
   <tbody>
     <tr>
       <td style="text-align: left"><center>Joystream<br /> <img class="imgpost" src="./assets/img/joystream.png" /> </center></td>
-      <td style="text-align: left">This is the network I’ve joined the longest time. Since it was a torrent project and now it is a video platform. Polkadot</td>
+      <td style="text-align: left">This is the network I’ve joined the longest time. Since it was a torrent project and now it is a video platform. Created telegram bot for its main telegram channel (bad code but works 😂)</td>
     </tr>
     <tr>
       <td style="text-align: left"><center>Snax<br /> <img class="imgpost" src="./assets/img/snax.png" /> </center></td>
@@ -39,7 +66,11 @@
     </tr>
     <tr>
       <td style="text-align: left"><center>Oasis<br /> <img class="imgpost" src="./assets/img/oasis.jpg" /> </center></td>
-      <td style="text-align: left">Privacy focused blockchain, very technical environment :smirk:</td>
+      <td style="text-align: left">Privacy focused blockchain, very technical environment :smirk:. **I got 6th validator rank on questnet **</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><center>Bluzelle<br /> <img class="imgpost" src="./assets/img/Bluzelle.jpg" /> </center></td>
+      <td style="text-align: left"><strong>Joined Bluzelle Swarm of Duty and got 0 missed blocks on Voting Participation and Power Uptime</strong></td>
     </tr>
     <tr>
       <td style="text-align: left"><center>Harmony<br /> <img class="imgpost" src="./assets/img/one.png" /> </center></td>
