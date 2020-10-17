@@ -41,7 +41,7 @@ That was stupid of me back then that I left my assets on exchange. I didn't unde
 
 But, I would still love crypto. There were many projects popped out on 2017. Although most of them were shitcoins, ponzi schemes or blatantly scams. My interest was on mining new coins. Most of them were POW coins. New forked coins appeared everyday. But yeah, mostly are dead projects now. We can see now that consensus protocol interest are shifting to POS. So I try to get experience of it by participating on many projects by being validator.
 
-I have no/little programming skill. So why do I choose to participate in this crypto space that required some of technical skills?
+Why do I choose to participate in this crypto space?
 
 First, I believe with spirit of decentralization, mass adoption will come true, one of the way to go there is by making "normal people" like me to participate in. I make assumption that if I can open and back up wallet, mining coin, being validator, delegating, etc, other "normal people" also can do it.
 
